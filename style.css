@@ -1,17 +1,32 @@
 
 .jump_off_box {
+  padding-top: 50px;
   display: flex;
   flex-basis: 25%;
   height: fit-content;
 }
 
+.fixed-top {
+  position: fixed;
+  top: 0vh;
+}
+
+.under-top {
+  padding-top: 50px;
+}
+
+.container {
+  width: 90vw;
+}
+
 .main_box {
   margin-left: 15px;
-  height: 60vw;
+  height: 100vh;
   overflow: scroll;
 }
 
 .image {
+  padding-top: 50px;
   display: flex;
   flex-basis: 25%;
   height: fit-content;
