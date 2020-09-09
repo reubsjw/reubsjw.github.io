@@ -22,7 +22,11 @@
 .main_box {
   margin-left: 15px;
   height: 80vh;
-  overflow: hidden;
+  overflow: scroll;
+}
+
+.main_box::-webkit-scrollbar {
+  display: none;
 }
 
 .image {
