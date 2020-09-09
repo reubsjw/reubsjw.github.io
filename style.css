@@ -23,6 +23,7 @@
   margin-left: 15px;
   height: 80vh;
   overflow: scroll;
+  overflow-x: hidden;
 }
 
 .main_box::-webkit-scrollbar {
