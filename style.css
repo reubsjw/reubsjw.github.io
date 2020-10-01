@@ -60,3 +60,7 @@
 .indent {
   text-indent: 50px;
 }
+
+.block_indent {
+  margin-left: 1em;
+}
