@@ -46,8 +46,6 @@
 .main_box_only {
   margin-left: 15px;
   height: 80vh;
-  overflow: scroll;
-  overflow-x: hidden;
   padding-top: 50px;
 }
 
